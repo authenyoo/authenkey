@@ -20,7 +20,7 @@ it's awesome
 
 <div>
 
-<a href="https://xn--931a.moe/"><img src="https://github.com/misskey-dev/misskey/blob/develop/assets/ai.png?raw=true" align="right" height="320px"/></a>
+<img src="./assets/ai.png?raw=true" align="right" height="320px"/></a>
 
 ## ✨ Features
 - **ActivityPub support**\
