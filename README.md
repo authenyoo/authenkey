@@ -20,7 +20,7 @@ you can add a million blobfoxes to people's post
 - **Drive**\
 who the fuck uses the misskey drive cloud storage feature
 - **Rich Web UI**
-- we copy discord and also blow up your computer
+we copy discord and also blow up your computer
 
 </div>
 
