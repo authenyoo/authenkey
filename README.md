@@ -1,13 +1,3 @@
-hey guys check out my new
-# MISSKEY FORK!!!
-it's awesome
-# MISSKEY FORK
-# #awesome
-# BLAZINGLY FAST 🚀🚀🚀🚀
-# NOT MADE WITH RUST
-
-# MICROBLOGGING
----
 <div align="center">
 <a href="https://authenyo.xyz">
 	<img src="./assets/title.png" alt="authenkey logo" style="border-radius:50%" width="400"/>
@@ -46,9 +36,3 @@ i like it
 
 ## Thanks
 myself
-Thanks to [Crowdin](https://crowdin.com/) for providing the localization platform that helps us translate Misskey into many languages.
-
-<a href="https://hub.docker.com/"><img src="https://user-images.githubusercontent.com/20679825/230148221-f8e73a32-a49b-47c3-9029-9a15c3824f92.png" height="30" alt="Docker" /></a>
-
-Thanks to [Docker](https://hub.docker.com/) for providing the container platform that helps us run Misskey in production.
-
