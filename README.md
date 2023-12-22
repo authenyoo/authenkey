@@ -19,7 +19,7 @@ Not on Authenkey? Please oh please use authenkey pleaseee But you can still talk
 you can add a million blobfoxes to people's post
 - **Drive**\
 who the fuck uses the misskey drive cloud storage feature
-- **Rich Web UI**
+- **Rich Web UI**\
 we copy discord and also blow up your computer
 
 </div>
